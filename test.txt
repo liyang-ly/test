@@ -1,2 +1,3 @@
 add test.txt 
 add some data on local
+add some data on inline
